@@ -87,3 +87,9 @@ Product images should be placed in the `assets/images/` directory and referenced
 4. Push to the branch
 5. Open a Pull Request
 >>>>>>> faf4834 (Initial commit for Shoezy app)
+## Screenshots
+
+| Home Screen | Product Grid |
+|-------------|--------------|
+| ![Home](assets/screenshots/home.png) | ![Grid](assets/screenshots/grid.png) |
+
