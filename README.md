@@ -88,8 +88,10 @@ Product images should be placed in the `assets/images/` directory and referenced
 5. Open a Pull Request
 >>>>>>> faf4834 (Initial commit for Shoezy app)
 ## Screenshots
+assets/screenshots/home.png
+assets/screenshots/Shoezy Cover.png
 
-| Home Screen | Product Grid |
-|-------------|--------------|
-| ![Home](assets/screenshots/home.png) | ![Grid](assets/screenshots/grid.png) |
+
+
+
 
