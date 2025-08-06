@@ -176,7 +176,11 @@
       "languageVersion": "3.0"
     }
   ],
+<<<<<<< HEAD
   "generated": "2025-08-05T15:52:02.180293Z",
+=======
+  "generated": "2025-08-05T08:27:04.416344Z",
+>>>>>>> 50de05f (Push working UI)
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/Users/MFQ/Documents/flutter",
