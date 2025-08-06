@@ -88,8 +88,8 @@ Product images should be placed in the `assets/images/` directory and referenced
 5. Open a Pull Request
 >>>>>>> faf4834 (Initial commit for Shoezy app)
 ## Screenshots
-assets/screenshots/home.png
-assets/screenshots/Shoezy Cover.png
+![Shoezy Cover](https://github.com/MowfaqRahman/Shoezy-ecome-for-shoe/blob/main/assets/screenshots/Shoezy%20Cover.png?raw=true)
+
 
 
 
