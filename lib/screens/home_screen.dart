@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/brand_chip.dart';
 import '../widgets/product_card.dart';
-import '../widgets/bottom_navigation.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -208,7 +207,6 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ),
       ),
-      bottomNavigationBar: const CustomBottomNavigation(),
     );
   }
 }

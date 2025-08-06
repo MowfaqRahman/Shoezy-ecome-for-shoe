@@ -22,27 +22,30 @@ const List<TabItem> items = [
 ];
 
 class CustomBottomNavigation extends StatefulWidget {
-  const CustomBottomNavigation({super.key});
+  final Function(int)? onIndexChanged;
+  final int currentIndex;
+
+  const CustomBottomNavigation({
+    super.key,
+    this.onIndexChanged,
+    required this.currentIndex,
+  });
 
   @override
   State<CustomBottomNavigation> createState() => _CustomBottomNavigationState();
 }
 
 class _CustomBottomNavigationState extends State<CustomBottomNavigation> {
-  int selectedIndex = 0;
-
-  @override
+    @override
   Widget build(BuildContext context) {
     return BottomBarInspiredInside(
       items: items,
       backgroundColor: Colors.white,
       color: const Color(0xFFEBEBEB),
       colorSelected: Colors.white,
-      indexSelected: selectedIndex,
+      indexSelected: widget.currentIndex,
       onTap: (int index) {
-        setState(() {
-          selectedIndex = index;
-        });
+        widget.onIndexChanged?.call(index);
         // Handle navigation here
         switch (index) {
           case 0:

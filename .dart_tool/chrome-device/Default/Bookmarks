@@ -1,8 +1,41 @@
 {
-   "checksum": "7e7d71f78172642f7d10f81227815416",
+   "checksum": "a59bc96cb8faf5b58e8ef1abb110fd9a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13398881410441881",
+            "date_last_used": "0",
+            "guid": "a3189749-1c12-41dd-9ca1-171ad561ff9a",
+            "id": "13",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13398881410441797",
+            "date_last_used": "0",
+            "guid": "4678e487-4db1-481b-b604-41e15e9bafa4",
+            "id": "12",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13398881410441525",
+            "date_last_used": "0",
+            "guid": "b22fb5fa-1b61-41b2-a58b-c217085b5b55",
+            "id": "11",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         }, {
             "date_added": "13398851780843081",
             "date_last_used": "0",
             "guid": "87b3f72c-5fd7-4677-ab43-40765a08f71d",
@@ -38,7 +71,7 @@
          } ],
          "date_added": "13398851780679529",
          "date_last_used": "0",
-         "date_modified": "13398851780843081",
+         "date_modified": "13398881410441881",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Favorites bar",
