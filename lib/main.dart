@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
+import 'screens/root_shell.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Sora',
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      home: const RootShell(),
       debugShowCheckedModeBanner: false,
     );
   }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302212006290",
+    "project_id": "shoezy-585df",
+    "storage_bucket": "shoezy-585df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302212006290:android:bd1d352983fdb37957814b",
+        "android_client_info": {
+          "package_name": "com.mowfaq.shoezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--3rWOulMK9ARcpv_uespt1HPgeqYH9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
